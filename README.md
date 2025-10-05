@@ -1,7 +1,9 @@
 ## 🔗 Live Dashboard
 
+## 🔗 Live Dashboard
+
 <p align="center">
-  <a href="https://app.powerbi.com/view?r=https://app.powerbi.com/view?r=eyJrIjoiOWEwYzU4MDEtNzBjOC00NWQxLWI4N2UtOTY1ZTUyNzBjYTc3IiwidCI6ImZkMDIwMmRjLTA0ZjUtNGYxMy04Mzg5LTIyODA5MTliY2ZjNiJ9" target="_blank">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiOWEwYzU4MDEtNzBjOC00NWQxLWI4N2UtOTY1ZTUyNzBjYTc3IiwidCI6ImZkMDIwMmRjLTA0ZjUtNGYxMy04Mzg5LTIyODA5MTliY2ZjNiJ9" target="_blank">
     <img src="https://img.shields.io/badge/View%20Dashboard-PowerBI-yellow?style=for-the-badge&logo=powerbi" alt="Power BI Dashboard"/>
   </a>
 </p>
